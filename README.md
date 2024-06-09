@@ -23,7 +23,7 @@ Follow these steps to set up the project:
 1. **Clone the repository:**
 
    ```bash
-   git clone (https://github.com/OUALi0/People-Counter_and_Object-Detection.git)
+   git clone https://github.com/OUALi0/People-Counter_and_Object-Detection.git
    cd object-detection-tracking
 2. **Install Dependencies:**
    - **streamlit**
